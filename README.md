@@ -1,5 +1,5 @@
 # Personal Site
-This is the code for my personal site.
+This is the code for my personal site, accessible [here](http://tmault.co.uk).
 
 Based on the Cactus theme.
 
