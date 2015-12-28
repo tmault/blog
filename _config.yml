@@ -5,7 +5,7 @@ meta_description: "Graduate Consultant at Atos. Currently studying the Intro to 
 aboutPage: true
 
 markdown: kramdown
-highlighter: pygments
+highlighter: rougify
 gems: [jekyll-paginate]
 
 paginate: 100
