@@ -1,5 +1,5 @@
 ---
-title: How to list installed packages on Linux
+title: How to list installed packages on Raspbian
 ---
 
 I’ve spent today messing around with a Raspberry Pi. One typical problem that I have is remembering which packages I have installed to make things happen. 
