@@ -4,7 +4,7 @@ permalink: about/
 profile: true
 ---
 
-Graduate Consultant at [Atos](http://atos.net/en-us/home/we-do/consulting.html). Currently studying the [Intro to Programming Nanodegree](https://www.udacity.com/course/intro-to-programming-nanodegree--nd000) on Udacity. 
+Digital Transformation Consultant at [Atos](http://atos.net/en-us/home/we-do/consulting.html). Currently studying the [Intro to Programming Nanodegree](https://www.udacity.com/course/intro-to-programming-nanodegree--nd000) on Udacity. 
 
 I graduated from [Loughborough University](http://www.lboro.ac.uk/) in Summer 2015 with a degree in Geography and Management.
 
