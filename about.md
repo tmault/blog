@@ -4,7 +4,7 @@ permalink: about/
 profile: true
 ---
 
-Digital Transformation Consultant at [Atos](http://atos.net/en-us/home/we-do/consulting.html). I am currently studying the [Intro to Programming Nanodegree](https://www.udacity.com/course/intro-to-programming-nanodegree--nd000) on Udacity, where I have learned basic computer science principles in Python. I am currently learning about relational databases and SQL. 
+Digital Transformation Consultant at [Atos](http://atos.net/en-us/home/we-do/consulting.html). I graduated the Udacity [Intro to Programming Nanodegree](https://www.udacity.com/course/intro-to-programming-nanodegree--nd000) in September 2016, where I learned about the principles of programming in Python and begun iOS development in Swift.
 
 I graduated from [Loughborough University](http://www.lboro.ac.uk/) in Summer 2015 with a degree in Geography and Management.
 
