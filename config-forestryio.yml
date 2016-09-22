@@ -5,7 +5,7 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  <title>Tom Mault - About</title>
+  <title>Tom Mault</title>
   <link rel="shortcut icon" href="/assets/images/favicon.ico">
   <link rel="stylesheet" href="/assets/css/style.css">
   <link rel="alternate" type="application/rss+xml" title="My Blog" href="/rss.xml">
@@ -20,6 +20,10 @@
 
         <a href="https://twitter.com/tmault">Twitter</a>
     
+    
+        
+            <a href="/about">About </a>
+        
     
 
     <a class="cta" href="/feed.xml">Subscribe</a>
@@ -39,18 +43,44 @@
 </div>
 
 
-  <section id="wrapper" class="home">
-    <p>Digital Transformation Consultant at <a href="http://atos.net/en-us/home/we-do/consulting.html">Atos</a>. I graduated the Udacity <a href="https://www.udacity.com/course/intro-to-programming-nanodegree--nd000">Intro to Programming Nanodegree</a> in September 2016, where I learned about the principles of programming in Python and begun iOS development in Swift.</p>
-
-<p>I graduated from <a href="http://www.lboro.ac.uk/">Loughborough University</a> in Summer 2015 with a degree in Geography and Management.</p>
-
-<h2 id="around-the-web">Around the web</h2>
-
-<p>You’ll find me on <a href="https://twitter.com/tmault">Twitter</a>, <a href="https://uk.linkedin.com/in/tmault">LinkedIn</a>, <a href="http://medium.com/@tmault">Medium</a>, <a href="https://www.pinterest.com/thomasmault/">Pinterest</a>, <a href="https://github.com/tmault">GitHub</a> and <a href="https://www.goodreads.com/user/show/49267595-thomas-mault">Goodreads</a>.</p>
-
-<footer id="footer">
-    <p class="small">© Copyright 2016 Tom Mault</p>
-</footer>
+  <section id="wrapper" class="">
+    ---
+name: Tom Mault
+description: Graduate Consultant
+meta_description: Graduate Consultant at Atos. Currently studying the Intro to Programming
+  Nanodegree on Udacity.
+aboutPage: true
+markdown: kramdown
+highlighter: pygments
+gems:
+- jekyll-paginate
+paginate: 100
+baseurl: "/"
+domain_name: http://tmault.co.uk
+google_analytics: UA-XXXXXXXX-X
+disqus: true
+disqus_shortname: tmault
+url: http://tmault.co.uk
+author: Tom Mault
+authorTwitter: tmault
+permalink: "/:year/:title/"
+defaults:
+- scope:
+    path: ''
+    type: pages
+  values:
+    layout: default
+- scope:
+    path: ''
+    type: posts
+  values:
+    layout: post
+- scope:
+    path: ''
+    type: drafts
+  values:
+    layout: post
+timezone: 
 
   </section>
 
