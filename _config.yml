@@ -10,7 +10,7 @@ gems: [jekyll-paginate]
 
 paginate: 100
 baseurl: /
-domain_name: 'http://tmault.co.uk'
+domain_name: 'http://tmault.github.io/personal-site/'
 google_analytics: 'UA-XXXXXXXX-X'
 disqus: true
 disqus_shortname: 'tmault'
