@@ -1,0 +1,43 @@
+---
+hide_body: false
+is_partial: false
+fields:
+- name: title
+  label: Title
+  type: text
+  hidden: false
+  default: ''
+- name: description
+  label: Description
+  type: text
+  hidden: false
+  default: ''
+- name: date
+  label: Date
+  type: datetime
+  hidden: false
+  default: ''
+- name: summary
+  label: Summary
+  type: textarea
+  hidden: false
+  default: ''
+- name: cover-image
+  label: Cover image
+  type: text
+  hidden: false
+  default: ''
+- name: layout
+  label: Layout
+  type: text
+  hidden: false
+  default: post
+pages:
+- _posts/2015-12-09-Learning-How-To-Learn.md
+- _posts/2015-12-07-rosenberg.md
+- _posts/2015-08-04-How-The-Economic-Machine-Works.md
+- _posts/2015-07-24-Links-July-2015.md
+- _posts/2015-05-01-iCloud-Photos.md
+- _posts/2015-04-04-Smart-Things.md
+- _posts/2014-10-14-CRM-Notes.md
+- _posts/a-draft-post.markdown
